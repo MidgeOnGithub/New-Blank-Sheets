@@ -1,4 +1,4 @@
-#### New Blank Sheets Version 1.0
+#### New Blank Sheets Version 0.9-alpha
 
 To import the macro into your Excel file, use (left) ALT + F11 or otherwise navigate to the VBAProject editor window for the workbook of interest. Then Use File -> Import File, then select NewBlankShts.bas
 
